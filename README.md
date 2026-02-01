@@ -253,3 +253,5 @@ This project demonstrates end-to-end ML development skills including data prepro
 ![High score demo](snapshots/demo_high.png)
 
 ![Low score demo](snapshots/demo_low.png)
+
+---
