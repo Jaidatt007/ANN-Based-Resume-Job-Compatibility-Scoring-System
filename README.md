@@ -239,3 +239,9 @@ This project demonstrates end-to-end ML development skills including data prepro
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
+
+---
+
+## 📊 Architechture Diagram
+
+![Complete Architechture](snapshots/archi.png)
