@@ -245,3 +245,11 @@ This project demonstrates end-to-end ML development skills including data prepro
 ## 📊 Architechture Diagram
 
 ![Complete Architechture](snapshots/archi.png)
+
+---
+
+## 👦 Example
+
+![High score demo](snapshots/demo_high.png)
+
+![Low score demo](snapshots/demo_low.png)
